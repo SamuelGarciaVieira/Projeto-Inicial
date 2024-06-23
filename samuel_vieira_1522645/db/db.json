@@ -1,1 +1,48 @@
-{}
+{
+    "topicos": [
+        {
+            "id": 1,
+            "nome": "Chat GPT",
+            "url_img": "https://www.mundoconectado.com.br/wp-content/uploads/2023/12/OpenAI-logo.jpg",
+            "url_link": "https://g1.globo.com/tecnologia/noticia/2024/05/13/gpt-4o-openai-lanca-novo-modelo-de-inteligencia-artificial-para-o-chatgpt.ghtml"
+        },
+        {
+            "id": 2,
+            "nome": "Nvidia",
+            "url_img": "https://cinegeektech.com.br/wp-content/uploads/2024/06/nvdia-tech-empresa-2.jpg",
+            "url_link": "https://cinegeektech.com.br/nvidia-passa-microsoft-a-empresa-mais-valiosa/"
+        },
+        {
+            "id": 3,
+            "nome": "Bitcoin",
+            "url_img": "https://panoramacrypto.transfero.com/wp-content/uploads/2024/06/taxa-bitcoin-820x475.png",
+            "url_link": "https://panoramacrypto.transfero.com/o-que-e-taxa-bitcoin/"
+        },
+        {
+            "id": 4,
+            "nome": "Xiaomi",
+            "url_img": "https://img.odcdn.com.br/wp-content/uploads/2024/06/xiaomi-su7.jpg",
+            "url_link": "https://olhardigital.com.br/2024/06/22/carros-e-tecnologia/segundo-eletrico-da-xiaomi-e-visto-nas-ruas-da-china-ev-mira-na-tesla/"
+        },
+        {
+            "id": 5,
+            "nome": "Rover Marte",
+            "url_img": "https://services.meteored.com/img/article/perseverance-conferma-su-marte-in-passato-c-e-stato-un-lago-1707147147728_1280.jpg",
+            "url_link": "https://olhardigital.com.br/web-stories/rover-da-nasa-conhece-anjo-brilhante-de-marte/"
+        }
+    ],
+    "amigos": [
+        {
+            "nome": "Gabriel Falk",
+            "url_img": "assets/img/img7.jpg"
+        },
+        {
+            "nome": "Lucas Torres",
+            "url_img": "assets/img/img8.jpg"
+        },
+        {
+            "nome": "Danilo Riguette",
+            "url_img": "assets/img/img9.jpg"
+        }
+    ]
+}
